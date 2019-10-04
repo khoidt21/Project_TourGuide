@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imagebottom">40dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textSize">8sp</dimen>
+    <dimen name="heightImageView">130dp</dimen>
+    <dimen name="titleSizeVN">20sp</dimen>
+    <dimen name="widthLocation">150dp</dimen>
+    <dimen name="heightLocation">150dp</dimen>
+    <dimen name="weightImage">1</dimen>
+    <dimen name="marginBottomImg">40dp</dimen>
+    <dimen name="weightTitle">1</dimen>
+    <dimen name="marginLeftText">70dp</dimen>
+    <dimen name="marginTopText">40dp</dimen>
+    <dimen name="marginTopLinearLayout">350dp</dimen>
+    <dimen name="weightFragment">1</dimen>
+    <dimen name="widthImageLinearLayout">100dp</dimen>
+    <dimen name="heightImageLinearLayout">100dp</dimen>
+    <dimen name="leftTextLinearLayout">20dp</dimen>
+    <dimen name="startTextLinearLayout">20dp</dimen>
+    <dimen name="textSizeLinearLayout">15dp</dimen>
+    <dimen name="marginTopLinerLayout">10dp</dimen>
+    <dimen name="marginStartText">20dp</dimen>
+    <dimen name="textSizeDetail">18dp</dimen>
+    <dimen name="leftTextDetail">10dp</dimen>
+    <dimen name="topTextDetail">10dp</dimen>
+
+</resources>

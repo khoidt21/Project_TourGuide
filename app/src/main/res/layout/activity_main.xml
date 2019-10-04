@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <fragment
+    android:id="@+id/homeFragment"
+    class="com.example.prm391x_tourguide_khoidtfx01411.HomeFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="@dimen/weightFragment"
+    tools:layout="@layout/fragment_container">
+    </fragment>
+</LinearLayout>
+

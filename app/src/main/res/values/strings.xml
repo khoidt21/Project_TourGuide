@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="app_hotel">Khách Sạn</string>
+    <string name="app_atm">ATM</string>
+    <string name="app_hospital">Bệnh Viện</string>
+    <string name="app_bus">Xe Bus</string>
+    <string name="title_VietNam">Hà Nội, Việt Nam</string>
+    <string-array name="listNameHotel">
+        <item>The Queen Hotel &amp; Spa</item>
+        <item>Hanoi Nostalgia Hotel &amp; Spa</item>
+        <item>Church Legend Hotel Hanoi</item>
+        <item>Little Hanoi Diamond Hotel</item>
+        <item>Flamingo Dai Lai Resort</item>
+        <item>Annam Legend Hotel</item>
+        <item>Hanoi Zesty Hotel</item>
+        <item>Bluebell Hotel</item>
+    </string-array>
+    <string-array name="listDescHotel">
+        <item>67 Thuốc Bắc, Hàng Bồ, Hàng Bồ, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>13-15 Luong Ngoc Quyen, Hang Buom, Hoan Kiem, Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>46 Ấu Triệu, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>11 Bát Đàn, Quận Hoàn Kiếm, Hàng Bồ, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>Thôn Ngọc Quang, Xã Ngọc Thanh, Vĩnh Phúc, Phúc Yên, Hà Nội, Việt Nam</item>
+        <item>27 Hàng Bè, Hàng Bạc, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>20 Hàng Cân, Hàng Đào, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+        <item>41 Ngõ Huyện, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Việt Nam</item>
+    </string-array>
+    <string-array name="listNameATM">
+        <item>ATM Hoàn Kiếm</item>
+        <item>ATM Đinh Tiên Hoàng</item>
+        <item>ATM Hội sở</item>
+        <item>ATM Nam Hà Nội</item>
+        <item>ATM Hai Bà Trưng</item>
+        <item>ATM Lê Ngọc Hân</item>
+        <item>ATM Thăng Long</item>
+        <item>ATM Phạm Hùng</item>
+        <item>ATM Khâm Thiên</item>
+    </string-array>
+    <string-array name="listDescATM">
+        <item>17 phố Lý Thường Kiệt, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội</item>
+        <item>7 Đinh Tiên Hoàng, Quận Hoàn Kiếm, Hà Nội</item>
+        <item>57 Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội</item>
+        <item>236 Lê Thanh Nghị, Quận Hai Bà Trưng, Hà Nội</item>
+        <item>300-302 Trần Khát Chân, Quận Hai Bà Trưng, Hà Nội</item>
+        <item>44 Lê Ngọc Hân, Quận Hai Bà Trưng, Hà Nội</item>
+        <item>129-131 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội</item>
+        <item>Tòa nhà FPT Phạm Hùng, Quận Cầu Giấy, Hà Nội</item>
+        <item>158 Khâm Thiên, Quận Đống Đa, Hà Nội</item>
+    </string-array>
+    <string-array name="listNameHospital">
+        <item>Bệnh viện Bạch Mai</item>
+        <item>Bệnh Viện Hữu Nghị</item>
+        <item>Bệnh Viện E, Hà Nội</item>
+        <item>Viện Răng Hàm Mặt</item>
+        <item>Bệnh Viện Tai Mũi Họng Trung Ương</item>
+        <item>Bệnh Viện Mắt Trung Ương</item>
+        <item>Viện Y Học Cổ Truyền Trung Ương</item>
+        <item>Bệnh Viện Nội Tiết</item>
+        <item>Bệnh Viện Việt Đức</item>
+        <item>Bệnh Viện Nhi Trung Ương</item>
+    </string-array>
+    <string-array name="listDescHospital">
+        <item>78 – Đường Giải Phóng – Phương Mai – Đống Đa – Hà Nội</item>
+        <item>Số 1 – Trần Khánh Dư – Quận Hai Bà Trưng – Hà Nội</item>
+        <item>89 – Trần Cung – Nghĩa Tân – Cầu Giấy – Hà Nội</item>
+        <item>40B – Tràng Thi – Hoàn Kiếm – Hà Nội</item>
+        <item>78 – Đường Giải Phóng – Quận Đống Đa – Hà Nội</item>
+        <item>85 – Phố Bà Triệu – Quận Hai Bà Trưng – Hà Nội</item>
+        <item>29 – Phố Nguyễn Bỉnh Khiêm – Quận Hai Bà Trưng – Hà Nội</item>
+        <item>80 – Thái Thịnh II – Thịnh Quang – Đống Đa – Hà Nội</item>
+        <item>8 – Phố Phủ Doãn – Quận Hoàn Kiếm – Hà Nội</item>
+        <item>18/879 – Đường La Thành – Quận Đống Đa – Hà Nội</item>
+    </string-array>
+    <string-array name="listNameBus">
+        <item>Tuyến 01</item>
+        <item>Tuyến 02</item>
+        <item>Tuyến 03A</item>
+        <item>Tuyến 03B</item>
+        <item>Tuyến 04</item>
+        <item>Tuyến 05</item>
+        <item>Tuyến 06</item>
+        <item>Tuyến 07</item>
+        <item>Tuyến 08</item>
+    </string-array>
+    <string-array name="listDescBus">
+        <item>BX Gia Lâm - BX Yên Nghĩa</item>
+        <item>Bác cổ - BX Yên Nghĩa</item>
+        <item>BX Giáp Bát - BX Gia Lâm</item>
+        <item>Bx Giáp Bát - Vincom - Phúc Lợi</item>
+        <item>Long Biên - BX Nước Ngầm</item>
+        <item>Linh Đàm - Phú Diễn</item>
+        <item>BX. Giáp Bát - Phú Minh (Phú Xuyên)</item>
+        <item>Cầu Giấy - Nội Bài</item>
+        <item>Long Biên - Đông Mỹ</item>
+    </string-array>
+    <string name="title_activity_detai_list_view">DetaiListView</string>
+</resources>
+
